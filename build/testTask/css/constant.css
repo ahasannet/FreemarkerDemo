@@ -1,0 +1,91 @@
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #60B7DE;
+	text-transform: lowercase;
+	font-weight: bold;
+}
+
+  h5, h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #60B7DE;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#header{
+   color: yellow;
+   font-size: 30px;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+   background:green;
+}
+
+#container{
+    position:relative;
+    width:98%;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+}
+
+#menuLeft{
+   float:left;
+   width:15%;
+   padding-top:85px;
+}
+
+#content{
+   float:right;
+   width:85%;
+}
+
+#footer{
+   clear:both;
+   padding:4px;
+}
+
+
+h2 {
+	font-size: 18px;
+}
+ #menu a:hover {
+      text-decoration: none;
+      color: white;
+      background:green;
+      font-weight: bold;
+               }
+#menu {
+       width:120px;
+       padding:0px 1px 0px 5px;
+            }  
+#menu tr{
+       background:#EFEFEF;
+            }
+            
+a:hover {
+       text-decoration: none;
+       color: green;
+       background:#EFEFEF;                
+   }
+               
+ a {
+      text-decoration: none;
+            
+         }   
+
+.addNew{
+    background:gray;
+    color: white;
+}
+
+.evenRow{
+    background:#EFEFEF;  
+}  
+
+.oddRow{
+    background:#FFFFFF;  
+}
+         
+      
